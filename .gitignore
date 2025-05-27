@@ -17,3 +17,6 @@ compile_commands.json
 /data/
 /*.log
 /perf.data*
+
+# xmake
+/.xmake/
